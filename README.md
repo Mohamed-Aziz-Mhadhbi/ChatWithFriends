@@ -1,5 +1,5 @@
 
-# Kotlin Chat App 📱💬
+# Chat With Friends App 📱💬
 This is a feature-rich chat application built with Kotlin, designed to provide a seamless and user-friendly way to connect with friends.
 
 ## Key Features 🚀
